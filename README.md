@@ -26,10 +26,10 @@ ExampleS of Utility:
 ![fence](readme/fence.gif)
 
 ## How to use
-You can use the assets directly in Houdini, then export the models as .fbx, or integrate them into your game engine workflow.
+You can use the assets directly in game engine workflow via [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal), or in Houdini then export the models as .fbx.
 
 ### Integration
-To use these tools in a game engine, make sure you're using a compatible version of [Houdini Engine for Unreal](https://github.com/sideeffects/HoudiniEngineForUnreal).
+To use these tools in a game engine, make sure you're using a compatible version of [Houdini Engine](https://github.com/sideeffects/HoudiniEngineForUnreal).
 
 Steps:
 1) Import the .hda asset into the engine with the Houdini plugin enabled.

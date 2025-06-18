@@ -37,5 +37,5 @@ Steps:
 3) If issues arise, verify the connection settings on both ends.
 
 Example configuration from Unreal Engine:
-![alt text](readme\unreal_hapi.png)
+![alt text](readme/unreal_hapi.png)
 
